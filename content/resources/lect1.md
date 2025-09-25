@@ -4,6 +4,8 @@ description: Lecture notes with an introduction to transportation at MIT.
 file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/32b70b2c0b20960773d5c661f7629b38_lect1.pdf
 file_size: 17483
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
