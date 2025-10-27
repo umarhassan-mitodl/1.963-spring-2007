@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information about the final presentation for the
   course.  All work on this page is courtesy of David Block-Schachter, Michael Kay,
   Francesca Napolitan, and Tegin Teich, and is used with permission.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
